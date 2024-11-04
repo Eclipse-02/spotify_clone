@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728451426777",
+    "project_id": "eclipse-02-spotify-clone",
+    "storage_bucket": "eclipse-02-spotify-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728451426777:android:976fa5558093de2ecfd1c8",
+        "android_client_info": {
+          "package_name": "com.example.spotify_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpe9sJHj3w2uSHK9RBd5p-bGgpIL58LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728451426777:android:3c5c2accf664a16bcfd1c8",
+        "android_client_info": {
+          "package_name": "com.spotify.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWpe9sJHj3w2uSHK9RBd5p-bGgpIL58LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
